@@ -1,2 +1,3 @@
 django-toolbelt
 python-gcm
+dj-database-url
