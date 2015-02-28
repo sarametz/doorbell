@@ -1,0 +1,1 @@
+web: gunicorn doorbell_project.wsgi --log-file -
